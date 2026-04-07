@@ -1,9 +1,11 @@
+// player one starts here
 let headingone=document.querySelector(".headingone")
 let inputone=document.querySelector(".inputone")
 let buttonone=document.querySelector(".buttonone")
 let errorone=document.querySelector(".errorone")
 let count=4
-// player two
+// player one ends here
+// player two javascript starts jere
 
 let headingtwo=document.querySelector(".headingtwo")
 let inputtwo=document.querySelector(".inputtwo")
