@@ -1,0 +1,9 @@
+.headingtwo, .buttontwo, .inputtwo{
+    display: none;
+}
+.errorone {
+    color: red !important;
+}
+.errortwo {
+    color: red !important;
+}
