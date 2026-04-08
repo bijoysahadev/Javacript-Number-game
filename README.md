@@ -1,1 +1,1 @@
-# Javacript-Number-game
+# Javacript-Number Guessing-game
